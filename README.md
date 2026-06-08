@@ -231,7 +231,7 @@ The JWT token is stored inside an HttpOnly Cookie to improve security and protec
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone  https://github.com/PurvaNijai34/task-management-system.git
 ```
 
 ### Backend Setup
@@ -326,7 +326,7 @@ Future scalability improvements may include:
 
 ### Landing Page
 
-_Add Screenshot Here_
+![Landing Page](./screenshots/LandingPage.png)
 
 ### Login Page
 

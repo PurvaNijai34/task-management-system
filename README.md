@@ -342,7 +342,7 @@ Future scalability improvements may include:
 
 ### Swagger Documentation
 
-![Admin Dashboard](./screenshots/SwaggerDocumentation.png)
+![Swagger Dashboard](./screenshots/Swagger.png)
 
 ---
 

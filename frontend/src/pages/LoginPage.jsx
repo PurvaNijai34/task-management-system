@@ -164,17 +164,7 @@ const LoginPage = () => {
           </button>
         </form>
 
-        {/* Demo profiles dynamic access panel */}
-        <div className="mt-6 border border-slate-800/80 bg-slate-950/40 rounded-xl p-4 relative overflow-hidden">
-          <div className="flex items-center gap-2 mb-2 text-xs font-medium text-indigo-400">
-            <Terminal className="w-3.5 h-3.5" />
-            <span>Sandbox Admin Environment</span>
-          </div>
-          <div className="font-mono text-[11px] text-slate-400 space-y-1">
-            <p><span className="text-slate-600">login_user:</span> admin@gmail.com</p>
-            <p><span className="text-slate-600">login_pass:</span> Admin@123</p>
-          </div>
-        </div>
+       
 
         {/* Auxiliary system access link */}
         <p className="text-center text-xs text-slate-500 mt-6">

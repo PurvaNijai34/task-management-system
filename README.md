@@ -330,19 +330,19 @@ Future scalability improvements may include:
 
 ### Login Page
 
-_Add Screenshot Here_
+![Login Page](./screenshots/LoginPage.png)
 
 ### User Dashboard
 
-_Add Screenshot Here_
+![User Dashboard](./screenshots/UserDashboard.png)
 
 ### Admin Dashboard
 
-_Add Screenshot Here_
+![Admin Dashboard](./screenshots/AdminDashboard.png)
 
 ### Swagger Documentation
 
-_Add Screenshot Here_
+![Admin Dashboard](./screenshots/SwaggerDocumentation.png)
 
 ---
 
